@@ -83,3 +83,6 @@ PIZZA_SALES BEST/WORSTS SELLER PAGE:-
 PUBLISH:-
 
 ![Screenshot 2023-11-13 153006](https://github.com/Shreyayadawar25/Pizza_Sales_Data_Science_Project/assets/118647524/661e0702-fb0d-4c9a-ba19-23fe14b47fca)
+
+SQL QUERY:-
+![Screenshot 2023-11-13 162848](https://github.com/Shreyayadawar25/Pizza_Sales_Data_Science_Project/assets/118647524/32e87d13-dbe5-4360-96db-15c370535210)
