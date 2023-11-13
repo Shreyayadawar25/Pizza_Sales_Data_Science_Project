@@ -70,4 +70,12 @@ KEY FEATURES:
 💡Data Connectivity
 💡Error Handling
 
+
+PIZZA_SALES HOME PAGE:-
+
+
 ![Screenshot 2023-11-13 152602](https://github.com/Shreyayadawar25/Pizza_Sales_Data_Science_Project/assets/118647524/a102cd58-b5c6-4bc0-a220-675c4bb9081f)
+
+PIZZA_SALES BEST/WORSTS SELLER PAGE:-
+
+
