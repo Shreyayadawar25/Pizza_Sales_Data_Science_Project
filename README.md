@@ -3,12 +3,12 @@ DATASCIENCE Project using SQL and data visualization tool PowerBI
 OVERVIEW:-
 
 
-Welcome to the documentation for the PIZZA SALES PowerBI dashboard.This document provides a concise overview of the key features and insights offered by the dashboard. For a more detailed explanation, please refer to the attached files on my GitHub account. The aim of this project is to exhibit my skills in analyzing and visualizing Sales data with user friendly navigation using Power BI.
+Welcome to the documentation for the PIZZA SALES PowerBI dashboard and SQL QUERY.This document provides a concise overview of the key features and insights offered by the dashboard and SQL QUERY. For a more detailed explanation, please refer to the attached files on my GitHub account. The aim of this project is to exhibit my skills in analyzing and visualizing Sales data with user friendly navigation using Power BI.
 
 PROBLEM STATEMENT:-
 
 
-Develop a Power BI dashboard to analyze and visualize PIZZA SLAES. The Dashboard should display Daily and Monthly trends for total orders, percentage of sales by pizza size and category,Top 5 and Bottom 5 pizzas by revenue,quantity and total orders. Create an intuitive user interface with filters and dynamic rankings for manufacturers and products. The goal is to enhance data-driven decision-making and provide a comprehensive overview of sales performance and customer satisfaction.
+Develop a Power BI dashboard and SQL QUERY to analyze and visualize PIZZA SLAES. The Dashboard should display Daily and Monthly trends for total orders, percentage of sales by pizza size and category,Top 5 and Bottom 5 pizzas by revenue,quantity and total orders. Create an intuitive user interface with filters and dynamic rankings for manufacturers and products. The goal is to enhance data-driven decision-making and provide a comprehensive overview of sales performance and customer satisfaction.
 
 
 📊Excited to share the results of the latest data-driven journey!
