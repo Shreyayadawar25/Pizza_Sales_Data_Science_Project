@@ -79,3 +79,7 @@ PIZZA_SALES HOME PAGE:-
 PIZZA_SALES BEST/WORSTS SELLER PAGE:-
 
 ![Screenshot 2023-11-13 152733](https://github.com/Shreyayadawar25/Pizza_Sales_Data_Science_Project/assets/118647524/8d6820c9-6fc7-489d-99f6-db02ab407625)
+
+PUBLISH:-
+
+![Screenshot 2023-11-13 153006](https://github.com/Shreyayadawar25/Pizza_Sales_Data_Science_Project/assets/118647524/661e0702-fb0d-4c9a-ba19-23fe14b47fca)
